@@ -1,6 +1,6 @@
 # Hover Effect 
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**You can get an idea from the hover style of my photos**
 
 ![hoverEffect](https://github.com/alinajafiweb/HoverEffect/assets/147813870/531e3e73-d2f3-49d2-84e8-e2b51138cec7)
 
