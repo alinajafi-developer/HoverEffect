@@ -6,7 +6,7 @@
 
 
 
-- [Demo Project]([https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/](https://alinajafiweb.github.io/HoverEffect/)](https://alinajafiweb.github.io/HoverEffect/))
+- [Demo Project](https://alinajafiweb.github.io/HoverEffect/)
 
 - Developed by Ali Najafi
 
