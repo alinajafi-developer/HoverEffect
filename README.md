@@ -2,8 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](![123](https://github.com/alinajafiweb/HoverEffect/assets/147813870/9089c3c7-de48-40af-a0d4-40b7e6387d7e)
-)
+![hoverEffect](https://github.com/alinajafiweb/HoverEffect/assets/147813870/531e3e73-d2f3-49d2-84e8-e2b51138cec7)
+
 
 
 - [Demo Project]([https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/](https://alinajafiweb.github.io/HoverEffect/))
